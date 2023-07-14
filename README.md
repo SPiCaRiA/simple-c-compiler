@@ -1,5 +1,7 @@
 # Simple C Compiler
 
+> Code last modified: 2023-03-13
+
 A compiler for the Simple C language (a subset of the C programming langauge) that generates code for 64-bit Intel processor. (The project of my compiler class.)
 
 ## The Language
